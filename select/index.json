@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Last Time",
+  "base_artist": "ジョージ・ノズカ",
+  "createdAt": "2025-12-02T09:10:15.903341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/01_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Is The Last Time",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/02_This_Is_The_Last_Time_Keane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Last Time, Like Hypothermia",
+      "artist": "Royal Coda",
+      "has_synced": false,
+      "path": "select/05_One_Last_Time,_Like_Hypothermia_Royal_Coda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Is This Our Last Time - Amended feat. Fabolous",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/06_Is_This_Our_Last_Time_-_Amended_feat._Fabolous_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Is This Our Last Time (feat. Fabolous)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/07_Is_This_Our_Last_Time_(feat._Fabolous)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Time (Bonus Track)",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/08_Last_Time_(Bonus_Track)_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Time",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/09_Last_Time_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Time - Alternate Version",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/10_Last_Time_-_Alternate_Version_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Time - Instrumental",
+      "artist": "Moderat",
+      "has_synced": false,
+      "path": "select/11_Last_Time_-_Instrumental_Moderat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Time (Instrumental)",
+      "artist": "Moderat",
+      "has_synced": false,
+      "path": "select/12_Last_Time_(Instrumental)_Moderat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/13_One_Last_Time_Moby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I've Told You For The Last Time",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/14_I've_Told_You_For_The_Last_Time_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I've Told You For The Last Time",
+      "artist": "Eric Clapton Delaney Bramlett",
+      "has_synced": false,
+      "path": "select/15_I've_Told_You_For_The_Last_Time_Eric_Clapton_Delaney_Bramlett.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Time by Moonlight",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/16_Last_Time_by_Moonlight_Enya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Time",
+      "artist": "George Nozuka",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Time_George_Nozuka.txt"
+    }
+  ]
+}
